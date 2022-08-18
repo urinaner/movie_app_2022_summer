@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/movie_app_2022_summer/static/js/main.7e1d2c01.js",
-    "index.html": "/movie_app_2022_summer/index.html",
-    "main.7e1d2c01.js.map": "/movie_app_2022_summer/static/js/main.7e1d2c01.js.map"
+    "main.js": "/movie_app_2022_summer.git/static/js/main.7e1d2c01.js",
+    "index.html": "/movie_app_2022_summer.git/index.html",
+    "main.7e1d2c01.js.map": "/movie_app_2022_summer.git/static/js/main.7e1d2c01.js.map"
   },
   "entrypoints": [
     "static/js/main.7e1d2c01.js"
